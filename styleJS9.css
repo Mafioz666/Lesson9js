@@ -1,0 +1,27 @@
+.osn{
+    background: black;
+    height: 30vh;
+    width: 30vw;
+    display: flex;
+margin: 15px;
+}
+.wrap{
+    background: fuchsia;
+    height: 100px;
+    width: 50px;
+}.collapse{
+     background: lawngreen;
+     height: 100px;
+     width: 50px;
+ }
+.alpha{
+    background: deeppink;
+    height: 100px;
+    width: 50px;
+}
+.beta{
+    background: gold;
+    height: 100px;
+    width: 50px;
+}
+
